@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Metrics</string>
+    <string name="metric_performance">%s Performance</string>
+    <string name="tap_to_begin_the_fun">Tap to begin the fun!</string>
+    <string name="start_btn">Start btn</string>
+    <string name="performance_by_zone">Performance By Zone</string>
+    <string name="initialising_app">Initialising App. Please wait…</string>
+    <string name="initialising_app_failed">Initialization failed. Please check your internet connection and try again…</string>
+    <string name="retry">Retry</string>
+</resources>
